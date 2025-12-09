@@ -1,3 +1,3 @@
-Diffusion微调适应VTON领域
+# CSC method for [Training-free Clothing Region of Interest Self-correction for Virtual Try-On]
 
-对Attention模块引入梯度，通过Energy Function将梯度与原attention结合，优化每一步的生成效果
+## CCFC - PRICAI 2025
